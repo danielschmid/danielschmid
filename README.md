@@ -3,7 +3,6 @@
 [Twitter](https://twitter.com/danielschmidcom)
 [Instagram](https://www.instagram.com/danielschmidcom)
 
-
 <!--
 **danielschmid/danielschmid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
